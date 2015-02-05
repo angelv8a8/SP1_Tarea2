@@ -1,0 +1,6 @@
+/Users/angel/AndroidStudioProjects/Tarea2/app/build/intermediates/classes/debug
+/Users/angel/AndroidStudioProjects/Tarea2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-f5672fcb2a6da1bef72c12aade63eed9dfdf4ccf.jar
+/Users/angel/AndroidStudioProjects/Tarea2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-5aa460ef6d8bd9a19d7e3f71637446933afb11b9.jar
+/Users/angel/AndroidStudioProjects/Tarea2/app/build/intermediates/pre-dexed/debug/classes-9f5408470962a689d8710e4b4b28fa8ab6e9bff2.jar
+/Users/angel/AndroidStudioProjects/Tarea2/app/build/intermediates/pre-dexed/debug/classes-1c09e178cdbca8b4c5cb83716e320b33b3ca7473.jar
+/Users/angel/AndroidStudioProjects/Tarea2/app/build/intermediates/pre-dexed/debug/classes-6d408555b8903c4b1d3a524450965e010755a539.jar
